@@ -16,7 +16,25 @@
         <p>j'utilise la balise <em>"em"</em></p>
         <h2>mettre un texte en gras</h2>
         <p>j'utilise la balise <strong>"stronge"</strong></p>
-        
+        <h2>souligner le texte</h2>
+        <p>j'utilise la balise <u>"u"</u></p>
+
+        <h1>les liste</h1>
+        <h2>une liste</h2>
+        <ul>
+            <li>on utilise 2 balises</li>
+            <li>la premiere c'est "ul"</li>
+            <li>la deuxieme c'est "li"</li>
+        </ul>
+        <h2>une liste ordonée</h2>
+        <ol>
+            <li>on utilise encore 2 balises</li>
+            <li>la premiere c'est "ol"</li>
+            <li>la deuxieme c'est "li"</li>
+        </ol>
+
+        <h1>les images</h1>
+        <p>pour ajouter une image, on utilise la labalise "img" suivi de "src="liens de la video"". De plus, on "alt="un etwte qui decrit l'image""</p>
     
 
     
