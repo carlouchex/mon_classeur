@@ -28,6 +28,7 @@
             <li>la deuxieme c'est "li"</li>
         </ol>
         <h1>les images</h1>
-        <p>pour ajouter une image, on utilise la labalise "img" suivi de "src="liens de la video"". De plus, on "alt="un etwte qui decrit l'image""</p>
+        <p>pour ajouter une image, on utilise la labalise "img" suivi de "src="liens de la video"". De plus, on ajoute "alt="un texte qui decrit l'image". Et enfin, on peut changer la taille de l'image, en ajoutant "width="200"" pour la longueur et "heigt="150"".</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/sushi.png" alt="sushi" width="200" heigt="150">
     </body>
 </html>
