@@ -6,20 +6,21 @@
     <link rel="stylesheet" href="style.css">
     <style>
       h1 {
-        color: pink ;
-        background-color: purple
+        color: rgb(255,204,255) ;
+        background-color: rgb(204,255,255)
       }
       h2 {
-        color: purple
+        color: rgb(178,102,255)
       }
       h3 {
-        color: lightgreen
+        color: lightgreen;
+        background-color: rgb(204,255,255)
       }
       p {
-        color: skyblue
+        color: black
       }
       body {
-        background-color: grey}
+        background-color: rgb(204,204,255)}
       </style>
   </head>
   <body>
