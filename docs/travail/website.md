@@ -1,11 +1,32 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
-<head>
-  <meta charset="utf-8">
-  <h1>Développeur informatique</h1>
+  <head>
+    <meta charset="utf-8">
+    <title>Web site</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+      h1 {
+        color: pink ;
+        background-color: purple
+      }
+      h2 {
+        color: purple
+      }
+      h3 {
+        color: lightgreen
+      }
+      p {
+        color: skyblue
+      }
+      body {
+        background-color: grey}
+      </style>
+  </head>
+  <body>
+    <h1>Développeur informatique</h1>
   <h2 class="titre1">fiche métier</h2>
   <p id="para_1">Le développeur informatique fournit aux professionnels de
-    l’entreprise, les solutions logicielles dont ils ont besoin.</p>o
+    l’entreprise, les solutions logicielles dont ils ont besoin.</p>
   
   <h3 class="titre2">missions</h3>
   <p id="para_2">•Analyser les besoins définis par les clients dans
@@ -22,14 +43,5 @@ fonctionnalités développées</p>
   <p id="para_5">Bac+2 voir 5 en ingénierie informatique (filière programmation)</p>
   <h3 class="titre6">types de développeur</h3>
   <p id="para_6">• Sécurité Web<br>•Front-end Back-end<br>•Big Data<br>•Full stack<br>•Mobile</p>
-  
-  
-  
-  
-  <meta name="viewport" content="width=device-width">
-  <title>JS Bin</title>
-</head>
-<body>
-
-</body>
+  </body>
 </html>
