@@ -1,2 +1,3 @@
-echo "Salut le monde" > monFichierTexte.txt
-cat monFichierTexte.txt
+Salut le monde
+Hello world
+Demat d'an holl cat monFichierTexte.txt
